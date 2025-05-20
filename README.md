@@ -1,5 +1,5 @@
 # agentic-ai-agent
-🤝# Partner Wanted/パートナー募集
+🤝🗾# Partner Wanted/パートナー募集
 
 ### Join us to grow a plugin-based AI Agents SaaS platform from Tokyo
 
